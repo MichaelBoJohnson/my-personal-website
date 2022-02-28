@@ -1,8 +1,18 @@
 body {
     background: #d6d6e6;
+    max-width: 1000px;
   }
 
-  h1 {
-      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-      background-color: orangered;
+
+
+  .banner {
+   background-image: url(./images/sushieye.jpg);
+   background-position: center;
+   height: 500px;
+   
+  }
+
+  div h1, h5 {
+      text-align: center;
+      color: white;
   }
