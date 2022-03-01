@@ -5,6 +5,20 @@
     height: 100%;
 }
 
+header {
+    background-color: rgb(233, 128, 219);
+    
+}
+
+header a {
+    color: yellow;
+    text-decoration: none;
+    font-size: 40px;
+    margin-right: 20px;
+    padding-left: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 /* The hero image */
 .hero-image {
     
@@ -23,5 +37,10 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: rgb(255, 255, 255);
+  }
+
+  button {
+      background-color:rgb(233, 128, 219);
+      color: yellow;
   }
