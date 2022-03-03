@@ -42,5 +42,7 @@ header a {
 
   button {
       background-color:rgb(233, 128, 219);
+      font-weight: bold;
       color: yellow;
+      padding: 10px;
   }
