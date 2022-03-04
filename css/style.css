@@ -50,7 +50,7 @@ header a {
   .image-grid {
     --gap: 16px;
     --num-cols: 3;
-    --row-height: 300px;
+    --row-height: 450px;
 
     box-sizing: border-box;
     padding: var(--gap);
