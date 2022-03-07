@@ -4,6 +4,7 @@
   body, html {
     height: 100%;
     background-image: url(./images/hand-painted-watercolor-background-with-sky-clouds-shape.jpg);
+    position: relative;
     
 }
 
@@ -96,13 +97,8 @@ footer a {
 
 footer {
   text-align: center;
-  position:fixed;
   bottom:0;
-  left:0;
-  right:0;
-  height:30px;
-  
-}
+  }
 
 .info-paragraph-text {
   float: right;
@@ -113,3 +109,11 @@ footer {
   margin-right: 400px;
   font-size: large;
 }
+
+
+}
+
+#info {
+  margin-bottom: 50px;
+}
+
