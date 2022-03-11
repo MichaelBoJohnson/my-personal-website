@@ -75,7 +75,7 @@ header a {
 
 .profilepic {
   height: 400px;
-  float: left;
+  /*float: left;*/
   
 }
 
@@ -88,32 +88,34 @@ header a {
   color: white;
 }
 
-footer a {
-  text-decoration: none;
-  color:black;
-  margin-right: 20px;
-  
-}
-
-footer {
-  text-align: center;
-  bottom:0;
-  }
-
 .info-paragraph-text {
-  float: right;
+  /*float: right;*/
   width: 400px;
   background-color: rgb(233, 128, 219);
   padding: 50px;
   font-family: 'Roboto Slab', serif;
-  margin-right: 400px;
+  /*margin-right: 400px;*/
   font-size: large;
+  text-align: center;
+}
+/*
+#footer {
+  height: 100px;
+  width: 100%;
+  background-color: aquamarine;
 }
 
+footer a {
+  text-decoration: none;
+  color:black;
+  margin-right: 20px;
+}
 
-
-
+footer {
+    text-align: center;
+    bottom:0;
+}
+*/
 #info {
-  margin-bottom: 50px;
+ align
 }
-
